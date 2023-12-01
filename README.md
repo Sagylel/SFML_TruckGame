@@ -1,5 +1,7 @@
 # SFML_TruckGame
 A C++ truck driving game using SFML library.
+<br>
+This was my first C++ game project and It has been an amazing project for me to learn the basics of C++ game development.
 
 # How to play:
 WASD for movement
