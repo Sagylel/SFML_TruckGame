@@ -3,5 +3,7 @@ A C++ truck driving game using SFML library.
 
 # How to play:
 WASD for movement
+<br>
 Go the farthest distance without hitting any humans and do not stop for too long.
+<br>
 ESC to exit
